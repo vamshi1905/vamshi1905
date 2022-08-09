@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vamshi Krishna
-- 👀 I’m interested in coding and android development
+- 👀 I’m interested in Web and application development
 - 🌱 I’m currently learning both
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
