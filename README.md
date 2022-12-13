@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vamshi Krishna
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning android development
+- 👀 I’m interested in Web development and Android development
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 📫https://www.linkedin.com/in/vamshi-krishna-akula-78087a201/
