@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vamshi Krishna
 - 👀 I’m interested in Web development and Android development
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
+- ⚒️ I’m looking to collaborate on Full Stack Development Projects.
 - 📫 How to reach me 
 - 📫https://www.linkedin.com/in/vamshi-krishna-akula-78087a201/
 - 📫avk6418@gmail.com
