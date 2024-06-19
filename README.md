@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves technology, i
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 
 ## 🔧 Projects
 
