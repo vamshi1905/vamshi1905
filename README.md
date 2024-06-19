@@ -43,7 +43,7 @@ A messenger website which connects with people around the globe.
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=wordpress)](https://my-portfolio-w6yf.onrender.com/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/path/to/your-animated-image.svg" width="600" height="400" alt="3D Animation">
+  <img src="https://raw.githubusercontent.com/vamshi1905/YOUR_REPO/main/path/to/your-animated-image.svg" width="600" height="400" alt="3D Animation">
 </p>
 ---
 
