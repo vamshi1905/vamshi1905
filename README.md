@@ -42,6 +42,9 @@ A messenger website which connects with people around the globe.
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/vamshi1905)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=wordpress)](https://my-portfolio-w6yf.onrender.com/)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/path/to/your-animated-image.svg" width="600" height="400" alt="3D Animation">
+</p>
 ---
 
 *This is a place to share my projects, collaborate with others, and learn from the open-source community. Feel free to explore my repositories and get in touch if you'd like to work together or just chat about technology!*
