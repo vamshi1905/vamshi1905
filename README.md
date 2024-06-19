@@ -2,11 +2,13 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves technology, innovation, and continuous learning. I've included below a bit more about me and the projects I work on.
 
+![Software Engineer Animation](https://github.com/vamshi1905/GIF/raw/main/software-engineer-animation.gif)
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on Data Science and Artificial Intelligence
-- 🌱 I’m currently learning new technologies on Web Development
-- 👯 I’m looking to collaborate on Web and AI based projects
+- 🌱 I’m currently learning new technologies in Web Development
+- 👯 I’m looking to collaborate on Web and AI-based projects
 - 💬 Ask me about Web and Android Development
 - 📫 How to reach me: avk6418@gmail.com
 - ⚡ Fun fact: I travel a lot😉
@@ -42,9 +44,6 @@ A messenger website which connects with people around the globe.
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/vamshi1905)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=wordpress)](https://my-portfolio-w6yf.onrender.com/)
 
-<p align="center">
-  <iframe src="https://embed.lottiefiles.com/animation/9997295" width="600" height="600" frameborder="0" allowfullscreen></iframe>
-</p>
 
 ---
 
