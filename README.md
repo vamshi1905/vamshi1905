@@ -1,16 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vamshi Krishna 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for technology, innovation, and continuous learning. Below you'll find a bit more about me and the projects I work on.
+Welcome to my GitHub profile! I'm a passionate developer who loves technology, innovation, and continuous learning. I've included below a bit more about me and the projects I work on.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Your Current Project or Job]
-- 🌱 I’m currently learning [Technology or Skill you're currently learning]
-- 👯 I’m looking to collaborate on [Types of projects you're interested in]
-- 🤔 I’m looking for help with [Areas you need help with]
-- 💬 Ask me about [Your areas of expertise or interest]
-- 📫 How to reach me: [Your contact information]
-- ⚡ Fun fact: [Something interesting about you]
+- 🔭 I’m currently working on Data Science and Artificial Intelligence
+- 🌱 I’m currently learning new technologies on Web Development
+- 👯 I’m looking to collaborate on Web and AI based projects
+- 💬 Ask me about Web and Android Development
+- 📫 How to reach me: avk6418@gmail.com
+- ⚡ Fun fact: I travel a lot😉
 
 ## 🛠️ Technologies & Tools
 
@@ -25,13 +24,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 🔧 Projects
 
-### [Project Name](link to the project)
-A brief description of what the project does.
+### [Portfolio Website](https://my-portfolio-w6yf.onrender.com/)
+My Portfolio Website helps you to reach me and know about me.
 
-### [Another Project Name](link to the project)
-A brief description of what the project does.
-
-(Repeat this section for as many projects as you'd like to highlight)
+### [Messenger Website](https://nuntius-website.onrender.com/)
+A messenger website which connects with people around the globe.
 
 ## 📈 GitHub Stats
 
@@ -41,13 +38,13 @@ A brief description of what the project does.
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=wordpress)](https://your-personal-website.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vamshi-krishna-akula/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/vamshi1905)
+[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=wordpress)](https://my-portfolio-w6yf.onrender.com/)
 
 ---
 
-*This is a place for me to share my projects, collaborate with others, and learn from the open-source community. Feel free to explore my repositories and get in touch if you'd like to work together or just chat about technology!*
+*This is a place to share my projects, collaborate with others, and learn from the open-source community. Feel free to explore my repositories and get in touch if you'd like to work together or just chat about technology!*
 
 
 <!---
