@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves technology, innovation, and continuous learning. I've included below a bit more about me and the projects I work on.
 
-![Software Engineer Animation](https://github.com/vamshi1905/GIF/raw/main/software-engineer-animation.gif)
+![Software Engineer Animation](https://github.com/vamshi1905/GIF)
 
 ## 🚀 About Me
 
