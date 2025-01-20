@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves technology, i
 - 👯 I’m looking to collaborate on Web and AI-based projects
 - 💬 Ask me about Web and Android Development
 - 📫 How to reach me: avk6418@gmail.com
-- 📄 My resume: https://drive.google.com/file/d/1I-rY4KBju4sA-enJt8imV7Kh_Z1roJ8T/view?usp=sharing
+- 📄 My resume: https://drive.google.com/file/d/1yPWuuSWg2N_O21lP33uTr2YYIujzT0zC/view?usp=sharing
 - ⚡ Fun fact: I travel a lot😉
 
 ## 🛠️ Technologies & Tools
