@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves technology, i
 - 👯 I’m looking to collaborate on Web and AI-based projects
 - 💬 Ask me about Web and Android Development
 - 📫 How to reach me: vamshikrishnaa1905@gmail.com
-- 📄 My resume: https://drive.google.com/file/d/1yPWuuSWg2N_O21lP33uTr2YYIujzT0zC/view?usp=sharing
+- 📄 My resume: https://drive.google.com/file/d/1v-ISc9VnySG6SH5VLpTIRsSDorRTn5fO/view?usp=drive_link
 - ⚡ Fun fact: I travel a lot😉
 
 ## 🛠️ Technologies & Tools
